@@ -1,2 +1,3 @@
-# 2020-yeounsu-highschool
-연수고 강의
+## 2020-yeounsu-highschool
+연수고강의 자료
+
