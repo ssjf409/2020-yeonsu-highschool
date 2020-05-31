@@ -10,5 +10,11 @@
 
 <img width="800" src="https://user-images.githubusercontent.com/35087350/83359961-c6a16f80-a3b8-11ea-997c-0077420f2219.png">
 
+
+자세한 내용들을 더 알고 싶은 학생은
+인터넷 무료 아두이노 책 링크(https://wikidocs.net/book/2655)입니다.
+들어가서 학습해보세요
+
+
 1. 2020-05-27 : LED
 2. 2020-06-03 : 푸시버튼
